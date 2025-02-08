@@ -2,7 +2,7 @@
 #include <string.h>
  void askname(char *first, char *last)
 {
-\\kz ns xjhn
+\\kz ns xjhnощощ
 cout<<endl;
 printf("Now enter your 1st name: ");
  fgets(first, 255, stdin);
